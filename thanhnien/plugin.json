@@ -6,42 +6,42 @@
     "source": "https://thanhnien.vn/rss/home.rss",
     "description": "Báo Thanh Niên - Cơ quan Trung ương Hội Liên hiệp Thanh niên Việt Nam. Hotline: 1800 1234 - Email: toasoan@thanhnien.vn"
   },
-  "genre": [
+  "categories": [
     {
       "name": "Trang chủ",
-      "rss_url": "https://thanhnien.vn/rss/home.rss"
+      "link": "https://thanhnien.vn/rss/home.rss"
     },
     {
       "name": "Thời sự",
-      "rss_url": "https://thanhnien.vn/rss/thoi-su.rss"
+      "link": "https://thanhnien.vn/rss/thoi-su.rss"
     },
     {
       "name": "Chính trị",
-      "rss_url": "https://thanhnien.vn/rss/chinh-tri.rss"
+      "link": "https://thanhnien.vn/rss/chinh-tri.rss"
     },
     {
       "name": "Chào ngày mới",
-      "rss_url": "https://thanhnien.vn/rss/chao-ngay-moi.rss"
+      "link": "https://thanhnien.vn/rss/chao-ngay-moi.rss"
     },
     {
       "name": "Thế giới",
-      "rss_url": "https://thanhnien.vn/rss/the-gioi.rss"
+      "link": "https://thanhnien.vn/rss/the-gioi.rss"
     },
     {
       "name": "Kinh tế",
-      "rss_url": "https://thanhnien.vn/rss/kinh-te.rss"
+      "link": "https://thanhnien.vn/rss/kinh-te.rss"
     },
     {
       "name": "Đời sống",
-      "rss_url": "https://thanhnien.vn/rss/doi-song.rss"
+      "link": "https://thanhnien.vn/rss/doi-song.rss"
     },
     {
       "name": "Sức khỏe",
-      "rss_url": "https://thanhnien.vn/rss/suc-khoe.rss"
+      "link": "https://thanhnien.vn/rss/suc-khoe.rss"
     },
     {
       "name": "Giới trẻ",
-      "rss_url": "https://thanhnien.vn/rss/gioi-tre.rss"
+      "link": "https://thanhnien.vn/rss/gioi-tre.rss"
     }
   ]
 }
