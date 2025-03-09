@@ -6,38 +6,38 @@
     "source": "https://infonet.vietnamnet.vn/rss",
     "description": "Tòa soạn: Tòa nhà Cục Tần Số, 115 Trần Duy Hưng Hà Nội Giấy phép hoạt động báo chí: Số 09/GP-BTTTT, Bộ Thông tin và Truyền thông cấp ngày 07/01/2019. Hotline nội dung: 0916118822 - Email: toasoan@infonet.vn"
   },
-  "genre": [
+  "categories": [
     {
       "name": "Đời sống",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/doi-song.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/doi-song.rss"
     },
     {
       "name": "Thị trường",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/thi-truong.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/thi-truong.rss"
     },
     {
       "name": "Thế giới",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/the-gioi.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/the-gioi.rss"
     },
     {
       "name": "Gia đình",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/gia-dinh.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/gia-dinh.rss"
     },
     {
       "name": "Giới trẻ",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/gioi-tre.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/gioi-tre.rss"
     },
     {
       "name": "Khỏe - Đẹp",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/khoe-dep.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/khoe-dep.rss"
     },
     {
       "name": "Chuyện lạ",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/chuyen-la.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/chuyen-la.rss"
     },
     {
       "name": "Quân sự",
-      "rss_url": "https://infonet.vietnamnet.vn/rss/quan-su.rss"
+      "link": "https://infonet.vietnamnet.vn/rss/quan-su.rss"
     }
   ]
 }
