@@ -6,12 +6,12 @@
   "data": [
     {
       "name": "Infonet",
-      "link": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/infonet/plugin.json",
+      "source": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/infonet/plugin.json",
       "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/infonet/icon.png"
     },
     {
       "name": "Thanh Niên",
-      "link": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/thanhnien/plugin.json",
+      "source": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/thanhnien/plugin.json",
       "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/thanhnien/icon.png"
     }
   ]
