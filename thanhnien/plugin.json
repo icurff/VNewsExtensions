@@ -3,7 +3,7 @@
     "name": "Thanh Niên",
     "author": "icurff",
     "version": 1,
-    "link": "https://thanhnien.vn",
+    "baseUrl": "https://thanhnien.vn",
     "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/thanhnien/icon.png",
     "description": "Báo Thanh Niên - Cơ quan Trung ương Hội Liên hiệp Thanh niên Việt Nam. Hotline: 1800 1234 - Email: toasoan@thanhnien.vn"
   },
