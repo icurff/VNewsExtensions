@@ -3,7 +3,7 @@
     "name": "Infonet",
     "author": "icurff",
     "version": 1,
-    "link": "https://infonet.vietnamnet.vn",
+    "baseUrl": "https://infonet.vietnamnet.vn",
     "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/infonet/icon.png",
     "description": "Tòa soạn: Tòa nhà Cục Tần Số, 115 Trần Duy Hưng Hà Nội Giấy phép hoạt động báo chí: Số 09/GP-BTTTT, Bộ Thông tin và Truyền thông cấp ngày 07/01/2019. Hotline nội dung: 0916118822 - Email: toasoan@infonet.vn"
   },
