@@ -3,46 +3,46 @@
     "name": "Thanh Niên",
     "author": "icurff",
     "version": 1,
-    "source": "https://thanhnien.vn/rss/home.rss",
+    "link": "https://thanhnien.vn",
     "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/thanhnien/icon.png",
     "description": "Báo Thanh Niên - Cơ quan Trung ương Hội Liên hiệp Thanh niên Việt Nam. Hotline: 1800 1234 - Email: toasoan@thanhnien.vn"
   },
   "categories": [
     {
       "name": "Trang chủ",
-      "link": "https://thanhnien.vn/rss/home.rss"
+      "source": "https://thanhnien.vn/rss/home.rss"
     },
     {
       "name": "Thời sự",
-      "link": "https://thanhnien.vn/rss/thoi-su.rss"
+      "source": "https://thanhnien.vn/rss/thoi-su.rss"
     },
     {
       "name": "Chính trị",
-      "link": "https://thanhnien.vn/rss/chinh-tri.rss"
+      "source": "https://thanhnien.vn/rss/chinh-tri.rss"
     },
     {
       "name": "Chào ngày mới",
-      "link": "https://thanhnien.vn/rss/chao-ngay-moi.rss"
+      "source": "https://thanhnien.vn/rss/chao-ngay-moi.rss"
     },
     {
       "name": "Thế giới",
-      "link": "https://thanhnien.vn/rss/the-gioi.rss"
+      "source": "https://thanhnien.vn/rss/the-gioi.rss"
     },
     {
       "name": "Kinh tế",
-      "link": "https://thanhnien.vn/rss/kinh-te.rss"
+      "source": "https://thanhnien.vn/rss/kinh-te.rss"
     },
     {
       "name": "Đời sống",
-      "link": "https://thanhnien.vn/rss/doi-song.rss"
+      "source": "https://thanhnien.vn/rss/doi-song.rss"
     },
     {
       "name": "Sức khỏe",
-      "link": "https://thanhnien.vn/rss/suc-khoe.rss"
+      "source": "https://thanhnien.vn/rss/suc-khoe.rss"
     },
     {
       "name": "Giới trẻ",
-      "link": "https://thanhnien.vn/rss/gioi-tre.rss"
+      "source": "https://thanhnien.vn/rss/gioi-tre.rss"
     }
   ]
 }
