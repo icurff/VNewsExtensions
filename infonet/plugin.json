@@ -3,42 +3,42 @@
     "name": "Infonet",
     "author": "icurff",
     "version": 1,
-    "source": "https://infonet.vietnamnet.vn/rss",
+    "link": "https://infonet.vietnamnet.vn",
     "icon": "https://raw.githubusercontent.com/icurff/VNewsExtensions/main/infonet/icon.png",
     "description": "Tòa soạn: Tòa nhà Cục Tần Số, 115 Trần Duy Hưng Hà Nội Giấy phép hoạt động báo chí: Số 09/GP-BTTTT, Bộ Thông tin và Truyền thông cấp ngày 07/01/2019. Hotline nội dung: 0916118822 - Email: toasoan@infonet.vn"
   },
   "categories": [
     {
       "name": "Đời sống",
-      "link": "https://infonet.vietnamnet.vn/rss/doi-song.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/doi-song.rss"
     },
     {
       "name": "Thị trường",
-      "link": "https://infonet.vietnamnet.vn/rss/thi-truong.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/thi-truong.rss"
     },
     {
       "name": "Thế giới",
-      "link": "https://infonet.vietnamnet.vn/rss/the-gioi.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/the-gioi.rss"
     },
     {
       "name": "Gia đình",
-      "link": "https://infonet.vietnamnet.vn/rss/gia-dinh.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/gia-dinh.rss"
     },
     {
       "name": "Giới trẻ",
-      "link": "https://infonet.vietnamnet.vn/rss/gioi-tre.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/gioi-tre.rss"
     },
     {
       "name": "Khỏe - Đẹp",
-      "link": "https://infonet.vietnamnet.vn/rss/khoe-dep.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/khoe-dep.rss"
     },
     {
       "name": "Chuyện lạ",
-      "link": "https://infonet.vietnamnet.vn/rss/chuyen-la.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/chuyen-la.rss"
     },
     {
       "name": "Quân sự",
-      "link": "https://infonet.vietnamnet.vn/rss/quan-su.rss"
+      "source": "https://infonet.vietnamnet.vn/rss/quan-su.rss"
     }
   ]
 }
