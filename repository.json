@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Báo Tuổi trẻ",
+    "icon": "https://statictuoitre.mediacdn.vn/web_images/favicon.ico",
+    "source": "https://tuoitre.vn/rss/tin-moi-nhat.rss"
+  },
+  {
+    "name": "Báo Thanh Niên",
+    "icon": "https://static.thanhnien.com.vn/thanhnien.vn/image/favicon.ico",
+    "source": "https://thanhnien.vn/rss/home.rss"
+  },
+  {
+    "name": "Báo VnExpress",
+    "icon": "https://s1.vnecdn.net/vnexpress/restruct/images/favicon.ico",
+    "source": "https://vnexpress.net/rss/tin-moi-nhat.rss"
+  },
+  {
+    "name": "Báo Dân Trí",
+    "icon": "https://dantri.com.vn/favicon.ico",
+    "source": "https://dantri.com.vn/rss/home.rss"
+  },
+  {
+    "name": "Báo Pháp Luật",
+    "icon": "https://static-cms-plo.epicdn.me/v4/web/styles/img/favicon.png",
+    "source": "https://plo.vn/rss/home.rss"
+  },
+  {
+    "name": "Báo VietNamNet",
+    "icon": "https://static.vnncdn.net/ico/favicon.ico",
+    "source": "https://vietnamnet.vn/thoi-su.rss"
+  }
+]
