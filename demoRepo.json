@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Người Lao Động",
+    "icon": "https://static.mediacdn.vn/nld/web_images/nld32.png",
+    "source": "https://nld.com.vn/rss/home.rss"
+  },
+  {
+    "name": "VTC News",
+    "icon": "https://vtcnews.vn/Content/pc/theme/images/logo.png?v=1245",
+    "source": "https://https://vtcnews.vn/rss/thoi-su.rss"
+  }
+]
