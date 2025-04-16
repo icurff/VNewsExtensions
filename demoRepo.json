@@ -5,6 +5,11 @@
     "source": "https://nld.com.vn/rss/home.rss"
   },
   {
+    "name": "Người Đưa Tin",
+    "icon": "https://static.mediacdn.vn/nguoiduatin.vn/images/favicon.png",
+    "source": "https://www.nguoiduatin.vn/trang-chu.rss"
+  },
+  {
     "name": "VTC News",
     "icon": "https://vtcnews.vn/Content/pc/theme/images/logo.png?v=1245",
     "source": "https://vtcnews.vn/rss/thoi-su.rss"
